@@ -1,5 +1,5 @@
 def func(x):
-	return (1000 * x) + x
+	return (1001 * x) + x
 
 def test_answer_positive():
 	assert func(2) == 2002
